@@ -25,3 +25,7 @@ This theme is not complete.
 I'm not nearly as competent with Mathematica as I'd like to be, so there are still some holes (like the coloration of the Wolfram|Alpha prompt).
 Additionally, I didn't follow the Nord theme guidelines exactly.
 I'll probably revisit this after using it for a while, and switch some of the colors around.
+
+## Dependencies
+This theme uses Roboto Slab and Fira Code Mono as the main fonts.
+You will have to install those if you want to use this theme in its current form (I may change that up later).
