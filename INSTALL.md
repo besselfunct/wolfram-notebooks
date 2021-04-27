@@ -8,4 +8,4 @@
 
 You may need to restart your application to see the changes take effect.
 
-2. Open a new notebook, and from the menu go to Format > Stylesheet > Dracula to change the stylesheet to Dracula.
+2. Open a new notebook, and from the menu go to Format > Stylesheet > Nord to change the stylesheet to Nord.
