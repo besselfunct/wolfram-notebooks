@@ -20,6 +20,6 @@ Massive thanks to her for doing this, and making it public!
 
 ## Note
 This theme is not complete.
-I'm not nearly as competent with Mathematica as I'd like to be, so there are still some holes (like the coloration of the Wolfram|Alpha prompt)
+I'm not nearly as competent with Mathematica as I'd like to be, so there are still some holes (like the coloration of the Wolfram|Alpha prompt).
 Additionally, I didn't follow the Nord theme guidelines exactly.
 I'll probably revisit this after using it for a while, and switch some of the colors around.
